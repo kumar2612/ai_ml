@@ -1,0 +1,512 @@
+Prompt 1
+Annual BIA Review Agent Dashboard
+
+You are an award-winning Senior Product Designer, UX Architect and Frontend Engineer working for a Fortune 100 fintech company like Visa.
+
+Build a single responsive HTML page (HTML + CSS + Vanilla JavaScript only).
+
+IMPORTANT
+
+Do NOT use Bootstrap, Tailwind or any external framework.
+
+Use semantic HTML.
+
+The page must use the company's existing custom CSS variables, typography, spacing, color palette, button styles, cards, icons and responsive grid system. I will plug in my company's CSS later, therefore keep all styling modular and use meaningful CSS classes.
+
+The page should look like an enterprise product such as Microsoft Copilot, Salesforce, ServiceNow or Atlassian.
+
+This is NOT a CRUD page.
+
+This is an AI powered Operational Resilience dashboard.
+
+The UI should immediately impress senior executives.
+
+------------------------------------------------------
+
+PAGE TITLE
+
+Annual BIA Review Agent
+
+Subtitle
+
+AI Powered Business Impact Analysis Review
+
+------------------------------------------------------
+
+HEADER
+
+Top Navigation Bar
+
+Company Logo
+
+Product Name
+
+Operational Resilience Intelligence Platform
+
+Notification Icon
+
+Help Icon
+
+Logged in User Avatar
+
+User Name
+
+Role
+
+Operational Resilience Analyst
+
+------------------------------------------------------
+
+BODY
+
+Large page heading
+
+Annual BIA Review
+
+Information icon beside heading
+
+------------------------------------------------------
+
+SECTION 1
+
+Business Service Summary Card
+
+Display
+
+Business Service
+
+Payment Authorization
+
+Status
+
+In Review
+
+Criticality
+
+Critical
+
+Business Owner
+
+John Smith
+
+Last Reviewed
+
+15 March 2025
+
+Annual Review Due
+
+Today
+
+Display using a premium executive dashboard layout.
+
+------------------------------------------------------
+
+SECTION 2
+
+Progress Tracker
+
+Horizontal progress indicator
+
+Use premium cards with icons
+
+Previous BIA Loaded
+
+Current Enterprise Data Loaded
+
+Fusion Records Loaded
+
+Analysis Complete
+
+Each card should show
+
+Success
+
+Running
+
+Pending
+
+status
+
+------------------------------------------------------
+
+SECTION 3
+
+Three Equal Width Cards
+
+Card 1
+
+AI Findings
+
+Show warning icons
+
+Vendor count increased
+
+New critical application detected
+
+Recovery Owner changed
+
+Last exercise completed 15 months ago
+
+Transaction volume increased 180%
+
+Each finding should have severity
+
+Information
+
+Warning
+
+Critical
+
+------------------------------------------------------
+
+Card 2
+
+AI Recommendations
+
+Review Impact Tolerance
+
+Review Recovery Plan
+
+Review Vendor Risk
+
+Validate Functional Area Mapping
+
+Reassess Third Party Dependencies
+
+Each recommendation should appear clickable with right arrow.
+
+------------------------------------------------------
+
+Card 3
+
+Business Summary
+
+BIA Owner
+
+Business Criticality
+
+Current RTO
+
+Current RPO
+
+Number of Applications
+
+Number of Vendors
+
+Supporting Functional Areas
+
+Recovery Plans
+
+Exercises
+
+------------------------------------------------------
+
+SECTION 4
+
+AI Executive Insight
+
+Large premium AI generated summary card.
+
+Example
+
+"Based on comparison with last year's BIA, five significant changes have been detected. Two of them may impact recovery objectives. We recommend reviewing the current impact tolerance before approving this year's Business Impact Analysis."
+
+This should appear like Microsoft Copilot.
+
+------------------------------------------------------
+
+BOTTOM ACTIONS
+
+Primary Button
+
+Generate Analyst Questionnaire
+
+Secondary Button
+
+View Full Analysis
+
+Ghost Button
+
+Export Executive Report
+
+------------------------------------------------------
+
+RIGHT SIDE OPTIONAL PANEL
+
+Show
+
+AI Confidence
+
+96%
+
+Data Sources Used
+
+Fusion
+
+HR
+
+CMDB
+
+Vendor Database
+
+Recovery Plans
+
+Previous BIA
+
+Last Updated
+
+Current Time
+
+------------------------------------------------------
+
+UX REQUIREMENTS
+
+Modern Enterprise
+
+Lots of whitespace
+
+Large cards
+
+Rounded corners
+
+Soft shadows
+
+Premium typography
+
+Responsive
+
+Desktop
+
+Tablet
+
+No scrolling if possible
+
+Use SVG placeholder icons
+
+Professional spacing
+
+Use realistic enterprise labels
+
+The page should look like something that could be demonstrated to Visa executives.
+
+Return complete HTML CSS and JavaScript.
+
+
+
+------------------------------------------------------------------
+
+
+Prompt 2
+Intelligent Questionnaire
+
+You are a Principal UX Designer and Frontend Architect designing an AI assisted Business Impact Analysis experience for a Fortune 100 fintech company.
+
+Create a premium responsive HTML page.
+
+Do not create a normal form.
+
+Create an intelligent guided workflow.
+
+No frameworks.
+
+HTML CSS JavaScript only.
+
+The page must inherit my company CSS later.
+
+------------------------------------------------------
+
+TITLE
+
+Annual BIA Intelligent Questionnaire
+
+Subtitle
+
+AI Generated Questions Based on Enterprise Data Changes
+
+------------------------------------------------------
+
+TOP
+
+Progress Bar
+
+Question 4 of 12
+
+Animated Progress
+
+Estimated Remaining Time
+
+5 Minutes
+
+------------------------------------------------------
+
+LEFT PANEL
+
+Question Navigator
+
+Show all questions
+
+Status
+
+Completed
+
+Current
+
+Pending
+
+Each question should display
+
+Question Number
+
+Category
+
+Completion Icon
+
+Categories
+
+Business Impact
+
+Vendor Change
+
+Recovery
+
+RTO
+
+RPO
+
+Applications
+
+Functional Areas
+
+Locations
+
+Exercises
+
+Regulatory
+
+------------------------------------------------------
+
+CENTER PANEL
+
+Large Question Card
+
+Category Badge
+
+Vendor
+
+Question
+
+How critical is the newly introduced Vendor XYZ to Payment Authorization?
+
+------------------------------------------------------
+
+Comparison Section
+
+Two premium comparison cards
+
+Previous Review
+
+Current Review
+
+Display
+
+Vendor Count
+
+Critical Vendors
+
+Top Vendor
+
+Recovery Owner
+
+Transaction Volume
+
+Applications
+
+Locations
+
+Highlight changed values.
+
+------------------------------------------------------
+
+Below
+
+Answer Section
+
+Radio Buttons
+
+Critical
+
+Important
+
+Moderate
+
+Low
+
+Not Applicable
+
+------------------------------------------------------
+
+Additional Comments
+
+Large multiline text area
+
+------------------------------------------------------
+
+Below
+
+AI Suggested Answer
+
+Display an expandable recommendation.
+
+Example
+
+"The newly added vendor supports two critical payment services. We recommend classifying this vendor as Critical and initiating a third party resilience assessment."
+
+------------------------------------------------------
+
+RIGHT PANEL
+
+AI Insight
+
+Explain
+
+Why this question was generated.
+
+Show
+
+Evidence
+
+Vendor added
+
+Transaction increase
+
+Dependency change
+
+Functional Area updated
+
+Exercise overdue
+
+Display confidence score.
+
+------------------------------------------------------
+
+BOTTOM
+
+Previous
+
+Save Draft
+
+Next Question
+
+Generate Follow-up Questions
+
+------------------------------------------------------
+
+The page should feel like Microsoft Copilot meets ServiceNow.
+
+Minimalistic
+
+Elegant
+
+Executive ready
+
+Return complete HTML CSS JavaScript.
