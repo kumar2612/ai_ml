@@ -1,0 +1,21 @@
+The "wow" scenario to demo
+
+When you present this, don't click randomly. Walk through a story:
+
+A new cloud migration was completed for a critical payment service.
+Several operational alerts have been recorded over the past month.
+A regulator has recently emphasized third-party concentration risk.
+The AI recommends a Cloud Provider Failure exercise because:
+The service hasn't been exercised in 18 months.
+Architecture changed significantly.
+Previous exercises found communication gaps.
+A new critical vendor was introduced.
+The workspace automatically:
+Identifies affected Business Services.
+Selects likely participants.
+Suggests meeting times based on availability.
+Builds the exercise pack.
+Generates objectives, injects, and success criteria.
+After the simulated exercise, it generates an After Action Report and an executive presentation outline.
+
+That tells a complete business story in under five minutes.
