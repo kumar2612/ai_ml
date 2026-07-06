@@ -1,0 +1,183 @@
+You are continuing development of the Operational Resilience Intelligence Platform.
+
+Do not redesign the application.
+
+Reuse all existing navigation, routing, styling, components and CSS.
+
+====================================================
+
+Create a new module called
+
+Business Continuity Lifecycle
+
+====================================================
+
+Business Goal
+
+Demonstrate the end-to-end Business Continuity lifecycle instead of showing isolated documents.
+
+The page should visually guide an analyst through the lifecycle from Scoping to System of Record update.
+
+====================================================
+
+Create a horizontal lifecycle ribbon containing:
+
+1. Scope
+2. Business Impact Analysis
+3. Business Continuity Plan
+4. Recovery Strategy
+5. Business Continuity Exercise
+6. Findings & Improvements
+7. Publish to System of Record
+
+Each stage should be clickable.
+
+Clicking a stage opens a detailed workspace below.
+
+====================================================
+
+Scope
+
+Display
+
+Business Service
+
+Functional Areas
+
+Applications
+
+Software
+
+Vendors
+
+Employees
+
+Locations
+
+Recovery Teams
+
+Dependencies
+
+Enterprise Data Status
+
+Last Synchronized
+
+AI Scope Summary
+
+====================================================
+
+Business Impact Analysis
+
+Reuse the existing BIA workspace.
+
+Show
+
+Previous Year Comparison
+
+AI Generated Questions
+
+Critical Changes
+
+RTO/RPO Comparison
+
+Impact Analysis
+
+====================================================
+
+Business Continuity Plan
+
+Reuse the BCP Review Workspace.
+
+Show
+
+Document Comparison
+
+Operational Drift
+
+Stakeholder Comments
+
+AI Suggested Changes
+
+====================================================
+
+Recovery Strategy
+
+Display
+
+Recovery Plans
+
+Recovery Sites
+
+Recovery Teams
+
+Dependencies
+
+Technology Recovery
+
+Business Recovery
+
+AI Risk Analysis
+
+====================================================
+
+Business Continuity Exercise
+
+Display
+
+Previous Exercises
+
+Exercise Readiness
+
+Exercise Calendar
+
+AI Recommended Exercise
+
+Generate Exercise button
+
+Exercise Objectives
+
+Exercise Participants
+
+Exercise Timeline
+
+====================================================
+
+Findings
+
+Display
+
+Open Actions
+
+Lessons Learned
+
+Recurring Findings
+
+Assigned Owners
+
+Target Dates
+
+Executive Summary
+
+====================================================
+
+Publish
+
+Display
+
+Review Complete
+
+Ready for Approval
+
+Generate Change Package
+
+Submit to System of Record
+
+Audit Trail
+
+====================================================
+
+Include realistic interactions.
+
+All data is mock JSON.
+
+Production quality UI.
