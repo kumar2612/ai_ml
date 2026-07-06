@@ -1,0 +1,165 @@
+Continue the existing Operational Resilience Intelligence Platform.
+
+DO NOT redesign any existing pages.
+
+Instead, improve every page so the application feels like a single enterprise product.
+
+========================================================
+
+Create a shared Enterprise Experience Layer.
+
+========================================================
+
+Every page should include a consistent top information ribbon.
+
+The ribbon displays the current enterprise context.
+
+Fields include
+
+Business Service
+
+Business Process
+
+Criticality
+
+Region
+
+Countries
+
+Functional Areas
+
+Applications
+
+Vendors
+
+Recovery Plans
+
+Business Continuity Plans
+
+Exercises
+
+Open Risks
+
+AI Confidence
+
+Last Enterprise Sync
+
+Current Review Status
+
+Owner
+
+========================================================
+
+Global AI Activity Feed
+
+Display a collapsible panel on every page.
+
+Show realistic notifications such as
+
+Cloud migration completed
+
+Vendor relationship updated
+
+Recovery owner changed
+
+New operational alert
+
+Exercise overdue
+
+Regulatory advisory published
+
+Business Continuity Plan modified
+
+New application onboarded
+
+Recovery strategy updated
+
+Allow users to click each notification.
+
+========================================================
+
+Enterprise Search
+
+Add a global AI Enterprise Search box.
+
+Placeholder
+
+Ask anything about Operational Resilience...
+
+Example searches
+
+Show all recovery plans for Payment Authorization
+
+Find all exercises involving Singapore
+
+Which vendors support Settlement?
+
+Show all Business Services with overdue exercises
+
+Find applications supporting Fraud Detection
+
+Display mock AI responses.
+
+========================================================
+
+Global Command Palette
+
+Press Ctrl + K
+
+Open a modern enterprise command palette.
+
+Commands include
+
+Create BIA Review
+
+Create Crisis Exercise
+
+Open Intake
+
+Search Applications
+
+Generate Executive Report
+
+Find Business Service
+
+Review Recovery Plan
+
+Open Dashboard
+
+========================================================
+
+Enterprise Breadcrumbs
+
+Display
+
+Home
+
+>
+
+Operational Resilience
+
+>
+
+Current Workspace
+
+========================================================
+
+Shared page transitions.
+
+Consistent loading skeletons.
+
+Toast notifications.
+
+Unified badges.
+
+Unified cards.
+
+Unified tables.
+
+Consistent spacing.
+
+Premium typography.
+
+Enterprise icons.
+
+Everything should feel like a production SaaS platform.
