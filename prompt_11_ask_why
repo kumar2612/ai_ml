@@ -1,145 +1,274 @@
-Continue the application.
+Continue developing the Operational Resilience Intelligence Platform (ORIP).
 
-========================================================
+Do NOT redesign any existing screens.
 
-Create Executive Demonstration Mode.
+This sprint introduces a cross-platform Explain Why capability that increases user trust in AI recommendations.
 
-========================================================
+=====================================================
 
-Add a button on the Dashboard.
+FEATURE
 
-Start Guided Demo
+AI Explain Why & Trust Center
 
-========================================================
+=====================================================
 
-When clicked
+Business Goal
 
-Launch a guided walkthrough.
+Every AI recommendation within ORIP should be explainable.
 
-Automatically navigate through the application.
+The objective is to help analysts, managers, auditors and regulators understand why a recommendation was made and what evidence was used.
 
-Show animated callouts.
+This feature should be available throughout the platform.
 
-Explain each feature.
+=====================================================
 
-========================================================
+Add an "Explain Why" icon beside every AI recommendation.
 
-Story
+Examples include
 
-Step 1
+- BIA questionnaire recommendations
+- BCP document changes
+- Crisis exercise recommendations
+- Governance response suggestions
+- Redaction decisions
+- AI generated summaries
+- Business impact analysis
+- Executive insights
 
-Business Impact Analysis
+=====================================================
 
-AI compares previous year.
+When clicked, open a premium side drawer called
 
-Generates questionnaire.
+AI Trust Center
 
-Step 2
+=====================================================
 
-Business Continuity Plan
+SECTION 1
 
-AI detects operational drift.
+Recommendation Summary
 
-Generates recommendations.
+Example
 
-Step 3
+Recommended Exercise
 
-Business Continuity Lifecycle
+Third Party Cloud Failure
 
-Shows progression from scope through exercise.
+Confidence
 
-Step 4
+94%
 
-Governance Intake
+Business Value
 
-AI gathers evidence.
+High
 
-Creates response.
+Priority
 
-Performs redaction.
+Critical
 
-Step 5
+=====================================================
 
-Exercise Planning
+SECTION 2
 
-AI recommends the most valuable exercise.
+Reasoning Chain
 
-Schedules participants.
+Display reasoning as a flow.
 
-Creates exercise package.
+Enterprise changes detected
 
-Step 6
+↓
 
-Crisis Command Center
+Cloud migration completed
 
-Launch live bridge simulator.
+↓
 
-Generate transcript.
+Critical payment application updated
 
-Generate executive brief.
+↓
 
-Generate regulator update.
+Previous exercise completed 18 months ago
 
-Generate after action review.
+↓
 
-========================================================
+Two operational incidents detected
 
-Display animated overlays explaining
+↓
 
-Business value
+Recovery strategy modified
 
-AI reasoning
+↓
 
-Manual effort saved
+Recommendation generated
 
-Regulatory benefits
+=====================================================
 
-Expected productivity gains
+SECTION 3
 
-========================================================
+Evidence Used
 
-At the end
+Display cards showing
 
-Show
+Business Services analysed
 
-Operational Resilience Transformation Summary
+Applications analysed
 
-========================================================
+Recovery Plans
 
-Display KPI cards
+Historical Exercises
 
-Reduction in manual effort
+Operational Alerts
 
-Reduction in review time
+Policies
 
-Increase in analyst productivity
+Enterprise Documents
 
-Improved evidence collection
+Risk Assessments
 
-Improved regulatory readiness
+Exercise Library
 
-Reduction in cognitive load
+Each card displays
 
-========================================================
+Number of records analysed
+
+Last synchronized
+
+Confidence
+
+=====================================================
+
+SECTION 4
+
+Related Enterprise Changes
+
+Timeline showing
+
+Application Added
+
+Vendor Changed
+
+Recovery Owner Updated
+
+Cloud Migration
+
+Office Relocation
+
+Critical Incident
+
+Exercise Completed
+
+=====================================================
+
+SECTION 5
+
+Alternative Recommendations
 
 Display
 
-Future Roadmap
+Recommended
 
-Phase 1
+Second Best
 
-AI Workspaces
+Third Best
 
-Phase 2
+Explain why they were not selected.
 
-Enterprise Integrations
+=====================================================
 
-Phase 3
+SECTION 6
 
-Agentic Operational Resilience Platform
+Business Impact
 
-========================================================
+Display
 
-Everything should be presentation quality.
+Risk Reduction
 
-No backend required.
+Estimated Manual Effort Saved
+
+Estimated Review Time Saved
+
+Business Services Protected
+
+Potential Regulatory Benefit
+
+=====================================================
+
+SECTION 7
+
+Governance
+
+Display
+
+AI generated recommendation only.
+
+Human approval required.
+
+System of Record remains unchanged until approval.
+
+=====================================================
+
+SECTION 8
+
+Feedback
+
+Buttons
+
+Useful
+
+Needs Improvement
+
+Incorrect
+
+Add Analyst Comment
+
+=====================================================
+
+SECTION 9
+
+Enterprise Knowledge Sources
+
+Display badges
+
+Operational Resilience Platform
+
+HR
+
+Application Inventory
+
+Vendor Repository
+
+Recovery Plans
+
+Business Continuity Plans
+
+Operational Alerts
+
+Exercise Library
+
+Historical Incidents
+
+Policies
+
+Knowledge Repository
+
+(Mock data only)
+
+=====================================================
+
+Design
+
+This should look like a premium explainability dashboard.
+
+Use timeline components.
+
+Use dependency graphs.
+
+Use cards.
+
+Use enterprise icons.
+
+Smooth animations.
+
+Everything should reinforce trust, transparency and governance.
+
+Production-quality UI.
+
+No backend.
