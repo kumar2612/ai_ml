@@ -1,0 +1,101 @@
+Continue the application.
+
+========================================================
+
+Create a persistent AI Copilot panel.
+
+========================================================
+
+The AI assistant remains visible throughout the application.
+
+The assistant changes its context automatically based on the page.
+
+Example
+
+Dashboard
+
+↓
+
+Executive Insights
+
+BIA
+
+↓
+
+Review Assistant
+
+BCP
+
+↓
+
+Document Analyst
+
+Crisis
+
+↓
+
+Digital Crisis Analyst
+
+Governance
+
+↓
+
+Regulatory Assistant
+
+Lifecycle
+
+↓
+
+Business Continuity Advisor
+
+========================================================
+
+The panel should contain
+
+Current Context
+
+AI Recommendations
+
+Enterprise Knowledge
+
+Suggested Actions
+
+Quick Questions
+
+Recent AI Activity
+
+Confidence
+
+Evidence Used
+
+Reasoning
+
+========================================================
+
+Allow the user to
+
+Ask follow-up questions.
+
+Generate summaries.
+
+Create reports.
+
+Navigate directly to related workspaces.
+
+Display mock responses only.
+
+========================================================
+
+Include an AI Thinking animation.
+
+Show
+
+Gathering enterprise data...
+
+Reasoning...
+
+Comparing historical records...
+
+Preparing recommendations...
+
+Complete.
