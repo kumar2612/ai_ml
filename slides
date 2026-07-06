@@ -1,0 +1,254 @@
+I don't want this to be another "AI Roadmap" presentation.
+
+I want people to leave the room saying:
+
+"That's exactly how we should be working in two years."
+
+My suggested flow
+
+Don't start with AI.
+
+Don't start with Agents.
+
+Don't start with Technology.
+
+Start with the problem everyone already feels.
+
+Slide 1
+Title
+
+Operational Resilience Intelligence Platform (ORIP)
+
+From Manual Operations to AI-Assisted Operational Resilience
+
+Speaker Notes
+
+Today I'd like to share a vision for how we can evolve Operational Resilience from document-centric and manually coordinated processes into AI-assisted workspaces that reduce cognitive load while preserving governance and human decision-making.
+
+Slide 2
+Why Change?
+
+Current Challenges
+
+Analysts spend significant time collecting information.
+Multiple enterprise systems must be consulted.
+Reviews rely heavily on email and document exchanges.
+Knowledge is distributed across platforms.
+Decision makers often lack consolidated context.
+Most effort is spent preparing work rather than making resilience decisions.
+Speaker Notes
+
+None of these activities are unique to a single process. Whether it's BIA, Business Continuity, Crisis Management or Regulatory Response, we see the same pattern of manual information gathering and coordination.
+
+Slide 3
+A Common Pattern
+
+Visual
+
+Collect
+↓
+
+Connect
+
+↓
+
+Analyse
+
+↓
+
+Collaborate
+
+↓
+
+Review
+
+↓
+
+Approve
+
+↓
+
+Update System of Record
+Speaker Notes
+
+We observed that every Operational Resilience process follows the same lifecycle. This gives us an opportunity to build common AI capabilities rather than point solutions.
+
+Slide 4
+Vision
+
+Operational Resilience Intelligence Platform
+
+One Intelligence Platform
+
+Multiple AI Workspaces
+
+BIA
+Business Continuity
+Crisis Management
+Governance
+Client Response
+Executive Reporting
+Speaker Notes
+
+Existing platforms continue to be the systems of record. ORIP becomes the intelligence and analyst productivity layer that sits across them.
+
+Slide 5
+Business Impact Analysis Workspace
+
+(Manager 1 Demo)
+
+Show screenshots.
+
+Speaker Notes
+
+Talk through:
+
+AI comparison
+Questionnaire generation
+Impact analysis
+Manual effort reduction
+Slide 6
+Business Continuity Workspace
+
+Show screenshots.
+
+Speaker Notes
+
+Walk through:
+
+Document drift
+Collaboration
+AI recommendations
+Update to system of record
+Slide 7
+Business Continuity Lifecycle
+
+Show lifecycle.
+
+Speaker Notes
+
+Explain that BC is a continuous lifecycle, not just a document.
+
+Hand Over
+
+Manager 2
+
+Slide 8
+Governance Intake
+
+Show screenshots.
+
+Speaker Notes
+
+Explain
+
+Request
+Discovery
+Evidence
+Redaction
+Approval
+Slide 9
+Crisis Planning
+
+Show screenshots.
+
+Speaker Notes
+
+Explain
+
+Trigger Intelligence
+AI Recommendation
+Participant Planning
+Exercise Generation
+Slide 10
+Crisis Command Center
+
+This is the WOW slide.
+
+Speaker Notes
+
+Tell the story.
+
+Bridge starts.
+
+AI listens.
+
+AI understands.
+
+AI reasons.
+
+AI recommends.
+
+AI documents.
+
+Humans decide.
+
+Slide 11
+Explain Why
+
+Show Trust Center.
+
+Speaker Notes
+
+This is where trust comes from.
+
+AI isn't making hidden decisions.
+
+Everything is transparent.
+
+Every recommendation is backed by evidence.
+
+Slide 12
+Benefits
+
+Show icons.
+
+Lower cognitive load
+Faster reviews
+Better collaboration
+Better evidence
+Stronger governance
+Improved regulatory readiness
+Better executive visibility
+Speaker Notes
+
+Focus on business outcomes, not AI.
+
+Slide 13
+Long-Term Roadmap
+
+Phase 1
+
+AI Workspaces
+
+↓
+
+Phase 2
+
+Enterprise Integrations
+
+↓
+
+Phase 3
+
+Deep AI Agents
+
+↓
+
+Phase 4
+
+Predictive Operational Resilience
+
+Speaker Notes
+
+Explain that today's demos represent the vision for Phase 1. They are intentionally designed to complement existing investments, with future phases adding deeper integrations and agentic capabilities as the platform matures.
+
+One final presentation tip
+
+There is one sentence that I think should become the theme of your entire presentation. I'd even put it on one of the early slides in large font:
+
+"Our objective is not to replace analysts. It is to eliminate the manual cognitive work surrounding resilience decisions."
+
+Everything you've described over the last several days—BIA comparisons, BCP reviews, governance intake, crisis planning, bridge call support—fits under that single statement.
+
+When people ask, "What does AI actually do?", you can always come back to that answer. It's business-focused, realistic, and aligns with how successful enterprise AI is being adopted today. I think it will resonate strongly with both your manager and the wider audience.
