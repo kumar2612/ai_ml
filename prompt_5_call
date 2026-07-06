@@ -1,0 +1,201 @@
+Continue the existing application.
+
+Reuse every existing component.
+
+====================================================
+
+Create
+
+AI Crisis Command Center
+
+====================================================
+
+Purpose
+
+Assist Incident Commanders during live crisis bridge calls.
+
+This is NOT Microsoft Teams.
+
+Create a realistic Live Meeting Simulator.
+
+Explain through UI labels that this represents a future integration with enterprise meeting platforms.
+
+====================================================
+
+Top Ribbon
+
+Meeting Status
+
+LIVE
+
+Elapsed Time
+
+Participants
+
+Severity
+
+Business Services
+
+====================================================
+
+Main Layout
+
+Three columns.
+
+====================================================
+
+LEFT
+
+Meeting Simulator
+
+Display
+
+Participant list
+
+Speaker indicator
+
+Transcript stream
+
+Mute icons
+
+Join/Leave events
+
+AI Transcript Confidence
+
+Connection Status
+
+Inject Timeline
+
+Display transcript as if people are talking.
+
+Mock realistic conversations.
+
+====================================================
+
+CENTER
+
+AI Situation Room
+
+Display
+
+Current Summary
+
+Root Cause
+
+Affected Business Services
+
+Applications
+
+Vendors
+
+Countries
+
+Potential Client Impact
+
+Potential Regulatory Impact
+
+Suggested Crisis Level
+
+Recommended Playbooks
+
+Suggested Response Plans
+
+Decision Timeline
+
+Open Decisions
+
+Action Tracker
+
+Business Impact Timeline
+
+====================================================
+
+RIGHT
+
+Digital Crisis Analyst
+
+Display
+
+Relevant Recovery Plans
+
+Historical Similar Incidents
+
+Historical Exercises
+
+Lessons Learned
+
+Recommended Communications
+
+Executive Talking Points
+
+Client Talking Points
+
+Regulator Talking Points
+
+Confidence
+
+Evidence Used
+
+====================================================
+
+Bottom Tabs
+
+Incident Timeline
+
+Decision Log
+
+Action Items
+
+Participants
+
+Documents
+
+Evidence
+
+====================================================
+
+Buttons
+
+Declare Crisis
+
+Generate Situation Report
+
+Generate Executive Brief
+
+Generate Client Update
+
+Generate Regulator Update
+
+Complete Bridge
+
+====================================================
+
+Completing the bridge opens
+
+After Action Review
+
+Exercise Summary
+
+Incident Summary
+
+Lessons Learned
+
+Improvement Actions
+
+Assign Owners
+
+Generate PowerPoint Preview
+
+====================================================
+
+Use mock transcript data.
+
+Everything is simulated.
+
+No backend.
+
+Clearly indicate
+
+Live Meeting Simulator
+
+to avoid implying a real Teams integration.
