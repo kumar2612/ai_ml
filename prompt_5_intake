@@ -1,0 +1,205 @@
+Continue the existing application.
+
+Do not redesign anything.
+
+====================================================
+
+Create
+
+Governance & Client Response Workspace
+
+====================================================
+
+Purpose
+
+Assist analysts in responding to Regulatory, Client, Internal Audit and Governance requests.
+
+====================================================
+
+Workflow ribbon
+
+Receive Request
+
+↓
+
+AI Understanding
+
+↓
+
+Enterprise Discovery
+
+↓
+
+Evidence Collection
+
+↓
+
+AI Review
+
+↓
+
+Redaction
+
+↓
+
+Human Approval
+
+↓
+
+Export
+
+====================================================
+
+Request Inbox
+
+Cards
+
+Regulator
+
+Client
+
+Audit
+
+Governance
+
+Legal
+
+Internal Risk
+
+Each request displays
+
+Priority
+
+Due Date
+
+Status
+
+====================================================
+
+AI Understanding
+
+Show
+
+Intent Detection
+
+Business Services
+
+Functional Areas
+
+Applications
+
+Countries
+
+Products
+
+Confidence Score
+
+====================================================
+
+Enterprise Discovery
+
+Automatically discover
+
+Applications
+
+Business Services
+
+Recovery Plans
+
+Business Continuity Plans
+
+Exercise Results
+
+Vendors
+
+Technology Assets
+
+Employees
+
+Policies
+
+Evidence
+
+====================================================
+
+Evidence Panel
+
+Display
+
+Collected
+
+Pending
+
+Missing
+
+Suggested
+
+====================================================
+
+AI Review
+
+Show
+
+Executive Summary
+
+Coverage Analysis
+
+Missing Evidence
+
+Potential Gaps
+
+Suggested Response
+
+====================================================
+
+Redaction Studio
+
+Highlight
+
+PII
+
+Confidential
+
+Internal Only
+
+Vendor Sensitive
+
+Regulator Only
+
+Show
+
+Original
+
+↓
+
+Redacted Preview
+
+====================================================
+
+Approval
+
+Business
+
+Risk
+
+Compliance
+
+Legal
+
+====================================================
+
+Export
+
+Word
+
+PDF
+
+Executive Package
+
+====================================================
+
+Mock data only.
+
+No backend.
+
+Presentation quality.
