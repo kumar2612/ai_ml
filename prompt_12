@@ -1,0 +1,453 @@
+Continue developing the Operational Resilience Intelligence Platform (ORIP).
+
+Do NOT redesign existing modules or workspaces.
+
+Instead, transform the existing dashboard into the ORIP Insight Engine with an AI Daily Briefing experience.
+
+============================================================
+
+PRODUCT VISION
+
+This dashboard represents an AI Operational Resilience Analyst that continuously monitors enterprise data and prepares a daily briefing before analysts begin work.
+
+The dashboard should feel like opening Microsoft Copilot, Salesforce Einstein or ServiceNow AI Control Tower.
+
+It should NOT feel like a traditional BI dashboard.
+
+============================================================
+
+PAGE HEADER
+
+Title
+
+Operational Resilience Intelligence Platform
+
+Subtitle
+
+Continuous Enterprise Resilience Intelligence
+
+============================================================
+
+AI DAILY BRIEFING (Hero Section)
+
+Display a premium welcome card.
+
+Example
+
+------------------------------------------------
+
+☀️ Good Morning, Sarah.
+
+Welcome back.
+
+While you were away, ORIP continuously monitored your Operational Resilience landscape.
+
+Here's your daily briefing.
+
+------------------------------------------------
+
+Enterprise records analysed
+
+12,847
+
+Business Services analysed
+
+54
+
+Applications analysed
+
+312
+
+Business Continuity Plans reviewed
+
+68
+
+Recovery Plans reviewed
+
+126
+
+Exercises analysed
+
+84
+
+Operational alerts analysed
+
+153
+
+Regulatory advisories analysed
+
+11
+
+Enterprise changes detected
+
+29
+
+Estimated manual review effort saved
+
+9.8 hours
+
+AI Confidence
+
+95%
+
+Last enterprise sync
+
+Today 07:15 AM
+
+------------------------------------------------
+
+Primary Recommendation
+
+Conduct a Third-Party Cloud Failure Exercise for Payment Authorization.
+
+Reason
+
+Architecture changes and operational trends indicate increased concentration risk.
+
+Buttons
+
+Explain Why
+
+Open Workspace
+
+Dismiss
+
+------------------------------------------------
+
+Today's Focus
+
+1 Critical
+
+3 High
+
+7 Medium
+
+12 Informational
+
+============================================================
+
+SECTION
+
+Today's AI Priorities
+
+Display priority cards.
+
+Priority 1
+
+Business Continuity Plan Drift
+
+Priority 2
+
+Recovery Plan Owner Changed
+
+Priority 3
+
+Vendor Dependency Increased
+
+Priority 4
+
+Exercise Recommendation
+
+Priority 5
+
+Regulatory Review Suggested
+
+Each card displays
+
+Priority
+
+Confidence
+
+Estimated business impact
+
+Manual effort saved
+
+Business Service
+
+Buttons
+
+Review
+
+Explain Why
+
+Assign
+
+============================================================
+
+SECTION
+
+ORIP Intelligence Capabilities
+
+Create five premium capability cards.
+
+------------------------------------------------
+
+Continuous Resilience Monitoring
+
+"Continuously monitors enterprise changes and resilience posture."
+
+Status
+
+Monitoring
+
+Records analysed today
+
+------------------------------------------------
+
+AI Gap Hunter
+
+"Automatically detects resilience inconsistencies."
+
+Gaps discovered
+
+18
+
+Resolved
+
+7
+
+Open
+
+11
+
+------------------------------------------------
+
+Trigger Intelligence
+
+"Identifies the most valuable resilience activities."
+
+Recommended Exercises
+
+3
+
+Recommended Reviews
+
+4
+
+------------------------------------------------
+
+Predictive Impact Analysis
+
+"Predicts downstream operational impact before incidents occur."
+
+Business Services at Risk
+
+2
+
+Applications Impacted
+
+17
+
+------------------------------------------------
+
+Executive Advisory
+
+"Provides explainable recommendations for executives."
+
+Executive Briefs Generated
+
+4
+
+Pending Reviews
+
+2
+
+============================================================
+
+SECTION
+
+Overnight Discoveries
+
+Display AI-generated observations.
+
+Examples
+
+Cloud migration completed.
+
+Recovery owner changed.
+
+Critical vendor added.
+
+Operational alert trend increasing.
+
+Exercise overdue.
+
+Recovery Plan inconsistent.
+
+Business Continuity Plan drift detected.
+
+Flood advisory affecting recovery site.
+
+Recent geopolitical event affecting supplier region.
+
+Each item displays
+
+Priority
+
+Business Service
+
+Confidence
+
+Business Value
+
+Estimated Review Time
+
+Buttons
+
+Explain Why
+
+Open Workspace
+
+Mark Reviewed
+
+============================================================
+
+SECTION
+
+Enterprise Health
+
+Display modern circular gauges.
+
+Overall Operational Resilience
+
+Business Continuity
+
+Technology Resilience
+
+Third Party Resilience
+
+Crisis Readiness
+
+Governance Readiness
+
+Recovery Readiness
+
+Exercise Coverage
+
+============================================================
+
+SECTION
+
+Enterprise Change Timeline
+
+Display a beautiful timeline.
+
+Cloud Migration
+
+Vendor Added
+
+Recovery Plan Updated
+
+Exercise Completed
+
+Employee Left
+
+Application Retired
+
+Policy Updated
+
+Regulatory Advisory Published
+
+Office Relocated
+
+Critical Incident
+
+============================================================
+
+SECTION
+
+Recommended Actions
+
+Display AI-generated actions.
+
+Review BCP
+
+Conduct Exercise
+
+Review Recovery Plan
+
+Update Vendor Mapping
+
+Schedule Executive Review
+
+Review Regulatory Guidance
+
+============================================================
+
+SECTION
+
+Enterprise Search
+
+Large AI search box.
+
+Placeholder
+
+Ask ORIP anything...
+
+Example prompts
+
+What changed overnight?
+
+Which Business Services need attention?
+
+Which recovery plans are outdated?
+
+Show all open resilience gaps.
+
+Recommend today's priorities.
+
+============================================================
+
+RIGHT SIDE PANEL
+
+AI Copilot
+
+Display
+
+Current Context
+
+Today's Priorities
+
+Recent Enterprise Changes
+
+Suggested Next Steps
+
+Confidence
+
+Evidence Used
+
+Reasoning Summary
+
+Quick Actions
+
+============================================================
+
+GLOBAL DESIGN
+
+The page should feel calm, premium and executive-focused.
+
+Use subtle animations.
+
+Modern cards.
+
+Glassmorphism where appropriate.
+
+Professional enterprise colour palette.
+
+No unnecessary charts.
+
+Focus on insight rather than reporting.
+
+============================================================
+
+IMPORTANT
+
+This dashboard should immediately communicate that ORIP is continuously working in the background, even when users are offline.
+
+The user should feel that they are receiving a personalised intelligence briefing rather than opening a traditional dashboard.
+
+All data should be realistic mock data.
+
+No backend.
+
+Presentation-quality UI.
